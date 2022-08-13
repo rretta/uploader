@@ -1,5 +1,5 @@
 a tener en cuenta:
 
--los archivos se van a alojar dentro de files
+-crear una carpeta en raiz de nombre "files" para alojar archivos, sino bien cambiar la ruta dentro de la programacion en JS.
 
 -XAMPP como servidor local.
